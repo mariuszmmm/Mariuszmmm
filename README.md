@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Mariusz 
+- 👀 I'm interested in programming 
+- 🌱 I'm currently learning React 
+- 💻︎ I'm looking for cooperation as a frontend developer 
+- 📫 How to reach me... write to: mariuszmmm@op.pl
