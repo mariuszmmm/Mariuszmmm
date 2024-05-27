@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Mariusz 
 - 👀 I'm passionate about frontend development, especially using React 
-- 🌱 I'm currently learning React 
+- 🌱 I like to learn new things and apply them in my projects
 - 💻︎ I'm always open to new projects whenever I have time
 - 📫 How to reach me... send an email: mariusz.myprojects@gmail.com
