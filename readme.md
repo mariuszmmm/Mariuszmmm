@@ -3,4 +3,4 @@
 - 🌱 Always eager to learn new things and apply them in projects
 - 💻︎ Open to new projects whenever there's time
 - 📫 Reach me at: mariusz.myprojects@gmail.com
-- 🌐 Visit my personal homepage: myprojects.pl
+- 🌐 Visit my personal homepage: www.myprojects.pl
