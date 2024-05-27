@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Mariusz 
-- 👀 I'm interested in programming 
+- 👀 I'm passionate about frontend development, especially using React 
 - 🌱 I'm currently learning React 
-- 💻︎ I'm looking for cooperation as a frontend developer 
-- 📫 How to reach me... send an email: mariuszmmm@op.pl
+- 💻︎ I'm always open to new projects whenever I have time
+- 📫 How to reach me... send an email: mariusz.myprojects@gmail.com
