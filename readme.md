@@ -3,11 +3,11 @@
 </p>
 
 #  👋 _Hi, I'm Mariusz_
-#### 👀 _Passionate about programming_
-#### 🌱 _Always eager to learn new things and apply them in projects_
-#### 💻︎ _Open to new projects whenever there's time_
-#### 📫 _Reach me at: mariusz.myprojects@gmail.com_
-#### 🌐 _Visit my personal homepage: https://myprojects.pl_
+- 👀 _Passionate about programming_
+- 🌱 _Always eager to learn new things and apply them in projects_
+- 💻︎ _Open to new projects whenever there's time_
+- 📫 _Reach me at: mariusz.myprojects@gmail.com_
+- 🌐 _Visit my personal homepage: https://myprojects.pl_
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariuszmmm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
