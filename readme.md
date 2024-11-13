@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=mariuszmmm&style=plastic&label=counter&color=4493f8" alt="visit counter">
+  <img src="https://komarev.com/ghpvc/?username=mariuszmmm&style=plastic&label=counter&color=4493f8" alt="visit_counter">
 </p>
 
 #  👋 _Hi, I'm Mariusz_
