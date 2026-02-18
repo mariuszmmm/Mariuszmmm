@@ -1,3 +1,4 @@
+<br/>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=mariuszmmm&style=plastic&label=visit_counter&color=4493f8" alt="counter">
 </p>
@@ -49,7 +50,7 @@
 
 <br/>
 
-## 🛠️ _Technologies and Skills_ 🚀
+## 🛠️ _Technologies and Skills_
 
 ### 🔹 Core Frontend Fundamentals  
 ![HTML_5](https://img.shields.io/badge/HTML_5-f25425?style=plastic&logo=html5&logoColor=f25425&labelColor=121212) &nbsp;
