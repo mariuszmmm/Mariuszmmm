@@ -10,28 +10,42 @@
 - 🌐 _Visit my personal homepage: https://myprojects.pl_
 <br>
 
-<table>
+<table style="width:100%;">
   <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats-mirror.vercel.app/api?username=mariuszmmm&show_icons=true&theme=transparent&hide_border=true&icon_color=4dd8ff&title_color=4dd8ff&text_color=cccccc" 
-        height="150"
+    <td style="width:50%;padding:0;">
+      <img
+        src="https://github-readme-stats-mirror.vercel.app/api?username=mariuszmmm&show_icons=true&theme=transparent&hide_border=true&icon_color=4dd8ff&title_color=4dd8ff&text_color=cccccc"
+        alt="GitHub stats"
+        style="display:block;width:100%;height:auto;border:0;margin:0;padding:0;"
       />
     </td>
-    <td>
-      <img 
-        src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=mariuszmmm&layout=compact&theme=transparent&hide_border=true&title_color=4dd8ff&text_color=cccccc" 
-        height="150"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://streak-stats.demolab.com?user=mariuszmmm&theme=transparent&hide_border=true&ring=ff2553&fire=ff2553&currStreakLabel=4dd8ff" 
-        height="150"
+    <td style="padding:0;">
+      <img
+        src="https://streak-stats.demolab.com?user=mariuszmmm&theme=transparent&hide_border=true&ring=ff2553&fire=ff2553&currStreakLabel=4dd8ff"
+        alt="Streak stats"
+        style="display:block;width:100%;height:auto;border:0;margin:0;padding:0;"
       />
     </td>
   </tr>
+  <tr>
+    <td style="width:50%;padding:0;">
+      <img
+        src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=mariuszmmm&layout=compact&theme=transparent&hide_border=true&title_color=4dd8ff&text_color=cccccc"
+        alt="Top languages"
+        style="display:block;width:100%;height:auto;border:0;margin:0;padding:0;"
+      />
+    </td>
+    <td style="padding:0;">
+      <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,mongodb,nodejs,git,github,vscode,netlify&theme=dark" alt="My Skills" />
+        </a>
+      </div>
+    </td>
+  </tr>
 </table>
+
+
 
 <br/>
 
